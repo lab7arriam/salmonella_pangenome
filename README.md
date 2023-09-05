@@ -1,11 +1,12 @@
 # <i>Salmonella enterica</i> pangenome
 The repository with working scripts, figures, data, and supplementary materials for pangenome analysis of 1598 <i>Salmonella enterica</i> genomes.
 
+
 ## Contents
 
 This repository contains scripts used for statistical analysis of pangenome, phylogeny, and phenotypical associations. Please consult the methods section in the paper for extra details:
 
-<Link Paper>
+Merkushova, A.V.; Shikov, A.E.; Nizhnikov, A.A.; Antonets, K.S. For Someone, You Are the Whole World: Host-Specificity of <i>Salmonella enterica</i>. Int. J. Mol. Sci. 2023, 24, 13670. https://doi.org/10.3390/ijms241813670
 
 ## Figures
 Figures are available in the `pics/` directory. For the description, please consult the results section of the article.
