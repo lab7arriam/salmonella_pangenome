@@ -11,15 +11,15 @@ Merkushova, A.V.; Shikov, A.E.; Nizhnikov, A.A.; Antonets, K.S. For Someone, You
 ## Figures
 Figures are available in the `pics/` directory. For the description, please consult the results section of the article.
 
-## Supplemenatry
+## Supplementary
 All supplementary material is located in the `supplementary/` directory.
 `Supplementary_figures.docx` is a Microsoft Word document with a description of all supplementary figures.
-`Supplementary_tables.xlsx` is an Excel table with all supplementary tables and description.
+`Supplementary_tables.xlsx` is an Excel table with all supplementary tables and descriptions.
 
 ## Data
 Analyzed data are included in the `data/` directory.
 
-* `data/pangenome/` folder contains gene presence/absence table obtained using Panaroo.
+* `data/pangenome/` folder contains the gene presence/absence table obtained using Panaroo.
 * `data/trees/` folder contains phylogenetic inferences in Newick format based on core gene alignments (aligned with MAFFT).
 * `data/pyseer/` folder includes Pyseer results attributed to particular hosts.
 
